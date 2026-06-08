@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const submitButton = document.getElementById("submit-button");
 
     // --- PASTE YOUR FORMSPREE ID HERE ---
-    const FORMSPREE_ID = "YOUR_FORMSPREE_FORM_ID"; 
+    const FORMSPREE_ID = "https://formspree.io/f/xkoawyjl"; 
 
     paymentOptions.forEach(option => {
         option.addEventListener("click", function () {
